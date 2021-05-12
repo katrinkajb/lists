@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import QueenList from '../components/queens/QueenList';
 import { getQueens } from '../services/dragRaceAPI';
+import '../components/app/App.css';
 
 export default class QueensContainer extends Component {
     state = {
@@ -14,6 +15,7 @@ export default class QueensContainer extends Component {
             queens,
             loading: false,
         });
+        console.log(this.state);
     }
 
     render() {
