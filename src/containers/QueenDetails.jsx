@@ -34,10 +34,24 @@ export default class QueenDetails extends Component {
     }
 
     render() {
-        "HELLOO"
+        console.log(this.state.queen)
         return (
             <>
-                <Queen queen={this.state.queen} />
+                {/* <Queen queen={this.state.queen} /> */}
+                <h1>{this.state.queen.name}</h1>
+                <div>{this.state.queen.winner}</div>
+                {this.state.queen.missCongeniality}
+                <div>"{this.state.queen.quote}"</div>
+                {/* {this.state.queen.seasons}
+                {this.state.queen.lipsyncs} */}
+                <img 
+                    src={this.state.queen.image_url}
+                    alt={this.state.queen.name} 
+                    style={{
+                        height: '500px',
+                        width: 'auto',
+                    }} 
+                />
             </>
         );
     }
