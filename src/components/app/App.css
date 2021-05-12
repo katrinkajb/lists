@@ -1,15 +1,5 @@
-/* .queen-card {
+.queen-card {
     border: 1px, black, solid;
-} */
-
-.pic {
-    width: 100px;
-    height: auto;
-}
-
-.list-item {
-    list-style-type: none;
-    color: black;
     display: inline-flex;
     cursor: pointer;
     margin: 10px;
@@ -17,7 +7,12 @@
     border: 2px solid black;
     border-radius: 25px;
     background-color: white;
-  }
+}
+
+.pic {
+    width: 100px;
+    height: auto;
+}
 
   .queensList {
       display: flex;
