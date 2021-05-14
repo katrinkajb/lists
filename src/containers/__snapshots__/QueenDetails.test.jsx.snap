@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`QueenDetails shows details for a drag queen 1`] = `
+<h1>
+  Bebe Zahara Benet
+</h1>
+`;

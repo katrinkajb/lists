@@ -4,1838 +4,3982 @@ exports[`QueensContainer shows a list of drag queens on the page 1`] = `
 <ul
   aria-label="queens"
 >
-  <li>
-    <img
-      alt="Victoria 'Porkchop' Parker"
-      src="http://www.nokeynoshade.party/images/victoria-porkchop-parker.jpg"
-    />
-    <p>
-      Victoria 'Porkchop' Parker
-    </p>
-    <p>
-      Would you fuck me? I'd fuck me.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Tammie Brown"
-      src="http://www.nokeynoshade.party/images/tammie-brown.jpg"
-    />
-    <p>
-      Tammie Brown
-    </p>
-    <p>
-      I'm not a slut, I'm a lady. You look under my skirt, and it will stick you in the eye though.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Akashia"
-      src="http://www.nokeynoshade.party/images/akashia.jpg"
-    />
-    <p>
-      Akashia
-    </p>
-    <p>
-      If I was a girl, I'd be a stripper, or a slut pregnant with a whole bunch of children.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Jade"
-      src="http://www.nokeynoshade.party/images/jade.jpg"
-    />
-    <p>
-      Jade
-    </p>
-    <p>
-      Jade is definitely my alter-ego, basically she has more balls than I do!
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Ongina"
-      src="http://www.nokeynoshade.party/images/ongina.jpg"
-    />
-    <p>
-      Ongina
-    </p>
-    <p>
-      If I don't win this, I swear to god I'm gonna cut someone!
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Shannel"
-      src="http://www.nokeynoshade.party/images/shannel.jpg"
-    />
-    <p>
-      Shannel
-    </p>
-    <p>
-      I am amazed at myself; In my mind... I've already won.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Rebecca Glasscock"
-      src="http://www.nokeynoshade.party/images/rebecca-glasscock.jpg"
-    />
-    <p>
-      Rebecca Glasscock
-    </p>
-    <p>
-      ""
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Nina Flowers"
-      src="http://www.nokeynoshade.party/images/nina-flowers.jpg"
-    />
-    <p>
-      Nina Flowers
-    </p>
-    <p>
-      I don't consider myself as a female impersonator, I like to be more androgynous. It's an extravaganza.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Bebe Zahara Benet"
-      src="http://www.nokeynoshade.party/images/bebe-zahara-benet.jpg"
-    />
-    <p>
-      Bebe Zahara Benet
-    </p>
-    <p>
-      I bring a lot of international influence, and right now I really feel like I'm ahead of the game.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Shangela Laquifa Wadley"
-      src="http://www.nokeynoshade.party/images/shangela-laquifa-wadley.jpg"
-    />
-    <p>
-      Shangela Laquifa Wadley
-    </p>
-    <p>
-      Halleloo!
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Nicole Paige Brooks"
-      src="http://www.nokeynoshade.party/images/nicole-paige-brooks.jpg"
-    />
-    <p>
-      Nicole Paige Brooks
-    </p>
-    <p>
-      I'm Nicole Paige Brooks, from ATLANTA, GEORGIA!
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Mystique Summers Madison"
-      src="http://www.nokeynoshade.party/images/mystique-summers-madison.jpg"
-    />
-    <p>
-      Mystique Summers Madison
-    </p>
-    <p>
-      Bitch I am from Chicago!
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Sonique"
-      src="http://www.nokeynoshade.party/images/sonique.jpg"
-    />
-    <p>
-      Sonique
-    </p>
-    <p>
-      My time is valuable too, so hit it!
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Morgan McMichaels"
-      src="http://www.nokeynoshade.party/images/morgan-mcmichaels.jpg"
-    />
-    <p>
-      Morgan McMichaels
-    </p>
-    <p>
-      People think that, since I'm pretty, and I'm sexy, that I should just do slutty all the time.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Sahara Davenport"
-      src="http://www.nokeynoshade.party/images/sahara-davenport.jpg"
-    />
-    <p>
-      Sahara Davenport
-    </p>
-    <p>
-      I'm happy I survived, but of course I'm sad, you know I sent my friend home.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Jessica Wild"
-      src="http://www.nokeynoshade.party/images/jessica-wild.jpg"
-    />
-    <p>
-      Jessica Wild
-    </p>
-    <p>
-      My biggest fear in the competition is, with my English, but if I don't understand something I am going to smile..
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Pandora Boxx"
-      src="http://www.nokeynoshade.party/images/pandora-boxx.jpg"
-    />
-    <p>
-      Pandora Boxx
-    </p>
-    <p>
-      I'm Pandora Boxx and I'm thirty-bleep years old.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Tatianna"
-      src="http://www.nokeynoshade.party/images/tatianna.jpg"
-    />
-    <p>
-      Tatianna
-    </p>
-    <p>
-      Cause baby boy what you see, isnt always the truth.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Jujubee"
-      src="http://www.nokeynoshade.party/images/jujubee.jpg"
-    />
-    <p>
-      Jujubee
-    </p>
-    <p>
-      Jujubee's just this fabulous Asian girl, she's very like poppy and like, fashion-forward. She loves accessories and she likes glitter, 'cause it's wicked sparkly!
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Raven"
-      src="http://www.nokeynoshade.party/images/raven.jpg"
-    />
-    <p>
-      Raven
-    </p>
-    <p>
-      I like to be that mysterious, dark, ice queen. I think I have a look that people might be a little intimidated by.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Tyra Sanchez"
-      src="http://www.nokeynoshade.party/images/tyra-sanchez.jpg"
-    />
-    <p>
-      Tyra Sanchez
-    </p>
-    <p>
-      I'm not a bitch. I'm America's Sweetheart.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Venus D-Lite"
-      src="http://www.nokeynoshade.party/images/venus-d-lite.jpg"
-    />
-    <p>
-      Venus D-Lite
-    </p>
-    <p>
-      You can be my friend or you can be my enemy, just say it to my face.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Phoenix"
-      src="http://www.nokeynoshade.party/images/phoenix.jpg"
-    />
-    <p>
-      Phoenix
-    </p>
-    <p>
-      You can be my friend or you can be my enemy, just say it to my face.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Mimi Imfurst"
-      src="http://www.nokeynoshade.party/images/mimi-imfurst.jpg"
-    />
-    <p>
-      Mimi Imfurst
-    </p>
-    <p>
-      This time around, I will not pick nobody up, it is time for America to see who I really am.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="India Ferrah"
-      src="http://www.nokeynoshade.party/images/india-ferrah.jpg"
-    />
-    <p>
-      India Ferrah
-    </p>
-    <p>
-      ""
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Mariah Balenciaga"
-      src="http://www.nokeynoshade.party/images/mariah-balenciaga.jpg"
-    />
-    <p>
-      Mariah Balenciaga
-    </p>
-    <p>
-      My name is Mariah, aka Mariah Paris, aka Mariah Successful.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Stacey Lane Matthews"
-      src="http://www.nokeynoshade.party/images/stacey-lane-matthews.jpg"
-    />
-    <p>
-      Stacey Lane Matthews
-    </p>
-    <p>
-      I am definitely a country queen. I live on a dirt road surrounded by corn fields. Can't get more country than that.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Delta Work"
-      src="http://www.nokeynoshade.party/images/delta-work.jpg"
-    />
-    <p>
-      Delta Work
-    </p>
-    <p>
-      ""
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Carmen Carrera"
-      src="http://www.nokeynoshade.party/images/carmen-carrera.jpg"
-    />
-    <p>
-      Carmen Carrera
-    </p>
-    <p>
-      ""
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Yara Sofia"
-      src="http://www.nokeynoshade.party/images/yara-sofia.jpg"
-    />
-    <p>
-      Yara Sofia
-    </p>
-    <p>
-      ""
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Alexis Mateo"
-      src="http://www.nokeynoshade.party/images/alexis-mateo.jpg"
-    />
-    <p>
-      Alexis Mateo
-    </p>
-    <p>
-      I don't like when they label you as 'the latin queen'.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Manila Luzon"
-      src="http://www.nokeynoshade.party/images/manila-luzon.jpg"
-    />
-    <p>
-      Manila Luzon
-    </p>
-    <p>
-      Try something new -- do it with an Indian guy!
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Raja"
-      src="http://www.nokeynoshade.party/images/raja.jpg"
-    />
-    <p>
-      Raja
-    </p>
-    <p>
-      They're a star fucker. You're a star. Let them fuck the star.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Alisa Summers"
-      src="http://www.nokeynoshade.party/images/alisa-summers.jpg"
-    />
-    <p>
-      Alisa Summers
-    </p>
-    <p>
-      I'm definitely a fishy queen, I can walk down the street and I can never get clocked! People look at me more so about how big my titties and ass are!
-    </p>
-  </li>
-  <li>
-    <img
-      alt="LaShauwn Beyond"
-      src="http://www.nokeynoshade.party/images/lashauwn-beyond.jpg"
-    />
-    <p>
-      LaShauwn Beyond
-    </p>
-    <p>
-      I'm not here to make best buddies bitch! This is not RuPaul's Best Friend Race!
-    </p>
-  </li>
-  <li>
-    <img
-      alt="The Princess"
-      src="http://www.nokeynoshade.party/images/the-princess.jpg"
-    />
-    <p>
-      The Princess
-    </p>
-    <p>
-      I'm the princess of drag.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Madam LaQueer"
-      src="http://www.nokeynoshade.party/images/madam-laqueer.jpg"
-    />
-    <p>
-      Madam LaQueer
-    </p>
-    <p>
-      Are we talking about beavers or... EEEEWWWWWWW!
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Milan"
-      src="http://www.nokeynoshade.party/images/milan.jpg"
-    />
-    <p>
-      Milan
-    </p>
-    <p>
-      Milan is FIERCE! She's FABULOUS, she's DIVA! She can act, sing, dance, produce, and you don't want it from her!
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Jiggly Caliente"
-      src="http://www.nokeynoshade.party/images/jiggly-caliente.jpg"
-    />
-    <p>
-      Jiggly Caliente
-    </p>
-    <p>
-      Jiggly is New York's plus size barbie, she's got swerve for your nerve, you can't take her!
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Willam Belli"
-      src="http://www.nokeynoshade.party/images/willam-belli.jpg"
-    />
-    <p>
-      Willam Belli
-    </p>
-    <p>
-      I'm not gonna RuPaulogize for anything that I'm doing now.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Dida Ritz"
-      src="http://www.nokeynoshade.party/images/dida-ritz.png"
-    />
-    <p>
-      Dida Ritz
-    </p>
-    <p>
-      I don't want her leaving saying that Drag Queen did a horrible job on my song.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Kenya Michaels"
-      src="http://www.nokeynoshade.party/images/kenya-michaels.jpg"
-    />
-    <p>
-      Kenya Michaels
-    </p>
-    <p>
-      I'm a little person, but I'm FIERCE... BITCH!
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Latrice Royale"
-      src="http://www.nokeynoshade.party/images/latrice-royale.jpg"
-    />
-    <p>
-      Latrice Royale
-    </p>
-    <p>
-      Jesus is a biscuit! Let him sop you up!
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Phi Phi O'Hara"
-      src="http://www.nokeynoshade.party/images/phi-phi-o'hara.png"
-    />
-    <p>
-      Phi Phi O'Hara
-    </p>
-    <p>
-      You don't need RuPaul to be big. I can say for a fact that people knew who Phi Phi was before I got here. So I don't need RuPaul to say I'm sickening. I know I'm sickening. I don't need her to tell me that.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Chad Michaels"
-      src="http://www.nokeynoshade.party/images/chad-michaels.jpg"
-    />
-    <p>
-      Chad Michaels
-    </p>
-    <p>
-      Everything I've gone through in my life has been because of Cher... the people I've gotten to meet, the clothes on my back. I basically owe her everything.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Sharon Needles"
-      src="http://www.nokeynoshade.party/images/sharon-needles.jpg"
-    />
-    <p>
-      Sharon Needles
-    </p>
-    <p>
-      I look spooky, but I'm really nice!... At least for now!
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Penny Tration"
-      src="http://www.nokeynoshade.party/images/penny-tration.jpg"
-    />
-    <p>
-      Penny Tration
-    </p>
-    <p>
-      Hello boys!
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Serena Cha Cha"
-      src="http://www.nokeynoshade.party/images/serena-chacha.jpg"
-    />
-    <p>
-      Serena Cha Cha
-    </p>
-    <p>
-      Does it bother you I keep saying I'm 21?!
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Monica Beverly Hillz"
-      src="http://www.nokeynoshade.party/images/monica-beverly-hillz.jpg"
-    />
-    <p>
-      Monica Beverly Hillz
-    </p>
-    <p>
-      Hello girls
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Vivienne Piney"
-      src="http://www.nokeynoshade.party/images/vivienne-piney.jpg"
-    />
-    <p>
-      Vivienne Piney
-    </p>
-    <p>
-      Hey y'all!
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Honey Mahogany"
-      src="http://www.nokeynoshade.party/images/honey-mahogany.jpg"
-    />
-    <p>
-      Honey Mahogany
-    </p>
-    <p>
-      Hey sisters!
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Lineysha Sparx"
-      src="http://www.nokeynoshade.party/images/lineysha-sparkx.jpg"
-    />
-    <p>
-      Lineysha Sparx
-    </p>
-    <p>
-      ""
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Jade Jolie"
-      src="http://www.nokeynoshade.party/images/jade-jolie.jpg"
-    />
-    <p>
-      Jade Jolie
-    </p>
-    <p>
-      Serving up fish, tuna on a platter.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Ivy Winters"
-      src="http://www.nokeynoshade.party/images/ivy-winters.jpg"
-    />
-    <p>
-      Ivy Winters
-    </p>
-    <p>
-      Hey ladies! Oh my god!
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Alyssa Edwards"
-      src="http://www.nokeynoshade.party/images/alyssa-edwards.jpg"
-    />
-    <p>
-      Alyssa Edwards
-    </p>
-    <p>
-      BACKROLLS?!?!
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Coco Montrese"
-      src="http://www.nokeynoshade.party/images/coco-montrese.jpg"
-    />
-    <p>
-      Coco Montrese
-    </p>
-    <p>
-      I'm not joking bitch!
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Detox Icunt"
-      src="http://www.nokeynoshade.party/images/detox.jpg"
-    />
-    <p>
-      Detox Icunt
-    </p>
-    <p>
-      Wow... Holy shit we're here
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Roxxy Andrews"
-      src="http://www.nokeynoshade.party/images/roxxy-andrews.jpg"
-    />
-    <p>
-      Roxxy Andrews
-    </p>
-    <p>
-      When life pulls you down, put on a shiny sequence gown
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Alaska Thunderfuck 5000"
-      src="http://www.nokeynoshade.party/images/alaska-thunderfuck.jpg"
-    />
-    <p>
-      Alaska Thunderfuck 5000
-    </p>
-    <p>
-      I'll send you 10,000 dollars via PayPal if you let me stay in this competition
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Jinkx Monsoon"
-      src="http://www.nokeynoshade.party/images/jinkx-monsoon.jpg"
-    />
-    <p>
-      Jinkx Monsoon
-    </p>
-    <p>
-      The name comes from Jinx, like you owe me a coke and Monsoon like the natural disaster because if there's a one in a million chance that something will go awry it's most likely going to happen to Jinkx, of course...
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Kelly Mantle"
-      src="http://www.nokeynoshade.party/images/kelly-mantle.jpg"
-    />
-    <p>
-      Kelly Mantle
-    </p>
-    <p>
-      Don't wear bacon!
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Magnolia Crawford"
-      src="http://www.nokeynoshade.party/images/magnolia-crawford.jpg"
-    />
-    <p>
-      Magnolia Crawford
-    </p>
-    <p>
-      I view myself as the world's most glamorous trash queen.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Vivacious"
-      src="http://www.nokeynoshade.party/images/vivacious.jpg"
-    />
-    <p>
-      Vivacious
-    </p>
-    <p>
-      Liza Minelli lies.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="April Carrion"
-      src="http://www.nokeynoshade.party/images/april-carrion.jpg"
-    />
-    <p>
-      April Carrion
-    </p>
-    <p>
-      ""
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Gia Gunn"
-      src="http://www.nokeynoshade.party/images/gia-gunn.jpg"
-    />
-    <p>
-      Gia Gunn
-    </p>
-    <p>
-      Just got off the boat, you know, little trip from Asia, just landed like fresh tilapia
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Milk"
-      src="http://www.nokeynoshade.party/images/milk.jpg"
-    />
-    <p>
-      Milk
-    </p>
-    <p>
-      Milk does the body good, gurl.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Laganja Estranja"
-      src="http://www.nokeynoshade.party/images/laganja-estranga.jpg"
-    />
-    <p>
-      Laganja Estranja
-    </p>
-    <p>
-      Well I'm young and I'm hung and I clearly march to the beat of my own drum, so props to ya, mawma!
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Trinity K Bonet"
-      src="http://www.nokeynoshade.party/images/trinity-k-bonet.jpg"
-    />
-    <p>
-      Trinity K Bonet
-    </p>
-    <p>
-      ""
-    </p>
-  </li>
-  <li>
-    <img
-      alt="BenDeLaCreme"
-      src="http://www.nokeynoshade.party/images/benda-la-creme.jpg"
-    />
-    <p>
-      BenDeLaCreme
-    </p>
-    <p>
-      Excuse me, we originated the language
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Joslyn Fox"
-      src="http://www.nokeynoshade.party/images/josyln-fox.jpg"
-    />
-    <p>
-      Joslyn Fox
-    </p>
-    <p>
-      I'm kinda like the black horse of the compition.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Darienne Lake"
-      src="http://www.nokeynoshade.party/images/darienne-lake.jpg"
-    />
-    <p>
-      Darienne Lake
-    </p>
-    <p>
-      Well, I am two tons of fun.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Courtney Act"
-      src="http://www.nokeynoshade.party/images/courtney-act.jpg"
-    />
-    <p>
-      Courtney Act
-    </p>
-    <p>
-      Sewing is not my forte but... everything else is.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Adore Delano"
-      src="http://www.nokeynoshade.party/images/adore-delano.jpg"
-    />
-    <p>
-      Adore Delano
-    </p>
-    <p>
-      So Laganja has ideas and I mean I was raised right so all I can do is nervous laugh at them because I don't know how to respond to them. I'm not going to say 'No bitch that's an awful idea and mine is better' but that was the truth of this situation.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Bianca Del Rio"
-      src="http://www.nokeynoshade.party/images/bianca-del-rio.jpg"
-    />
-    <p>
-      Bianca Del Rio
-    </p>
-    <p>
-      I will show you versatility when Santino wins a sewing competition and Visage wears a fucking turtle neck!
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Tempest DuJour"
-      src="http://www.nokeynoshade.party/images/tempest-dujour.jpg"
-    />
-    <p>
-      Tempest DuJour
-    </p>
-    <p>
-      You don't stop dreaming at a certain age!
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Sasha Belle"
-      src="http://www.nokeynoshade.party/images/sasha-belle.jpg"
-    />
-    <p>
-      Sasha Belle
-    </p>
-    <p>
-      I wore a lobster dress
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Jasmine Masters"
-      src="http://www.nokeynoshade.party/images/jasmine-masters.jpg"
-    />
-    <p>
-      Jasmine Masters
-    </p>
-    <p>
-      You gotta pop dem corns so the kids can eat!
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Mrs. Kasha Davis"
-      src="http://www.nokeynoshade.party/images/mrs-kasha-davis.jpg"
-    />
-    <p>
-      Mrs. Kasha Davis
-    </p>
-    <p>
-      There's always time for a cocktail
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Kandy Ho"
-      src="http://www.nokeynoshade.party/images/kandy-ho.jpg"
-    />
-    <p>
-      Kandy Ho
-    </p>
-    <p>
-      This is right on my alley!
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Max"
-      src="http://www.nokeynoshade.party/images/max.jpg"
-    />
-    <p>
-      Max
-    </p>
-    <p>
-      It's a Drag competition; if you're not optimistic and having fun then you're not doing it right!
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Jaidynn Diore Fierce"
-      src="http://www.nokeynoshade.party/images/jaidynn-diore-fierce.jpg"
-    />
-    <p>
-      Jaidynn Diore Fierce
-    </p>
-    <p>
-      My name is Jaidynn Diore Fierce. Capital F-I-E-R-C-E because I am what? Fierce
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Miss Fame"
-      src="http://www.nokeynoshade.party/images/miss-fame.jpg"
-    />
-    <p>
-      Miss Fame
-    </p>
-    <p>
-      I love chickens! They are my favorite animal.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Trixie Mattel"
-      src="http://www.nokeynoshade.party/images/trixie-mattel.jpg"
-    />
-    <p>
-      Trixie Mattel
-    </p>
-    <p>
-      Alright, Public school, calm down.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Katya Zamolodchikova"
-      src="http://www.nokeynoshade.party/images/katya.jpg"
-    />
-    <p>
-      Katya Zamolodchikova
-    </p>
-    <p>
-      I’m trying to just serve sexy and confident whore slutty cougar on the prowl. 3rd rate Faith Hill impersonator. 80% sexy, 20% disgusting.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Kennedy Davenport"
-      src="http://www.nokeynoshade.party/images/kennedy-davenport.jpg"
-    />
-    <p>
-      Kennedy Davenport
-    </p>
-    <p>
-      Love is understanding, unconditional. Love is accepting, and never fails.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Pearl"
-      src="http://www.nokeynoshade.party/images/pearl.jpg"
-    />
-    <p>
-      Pearl
-    </p>
-    <p>
-      Very flazéda.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Ginger Minj"
-      src="http://www.nokeynoshade.party/images/ginger-minj.jpg"
-    />
-    <p>
-      Ginger Minj
-    </p>
-    <p>
-      I'm about to flood my basement.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Violet Chachki"
-      src="http://www.nokeynoshade.party/images/violet-chachki.jpg"
-    />
-    <p>
-      Violet Chachki
-    </p>
-    <p>
-      Pain is beauty and I'm the prettiest.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Laila McQueen"
-      src="http://www.nokeynoshade.party/images/laila-mcqueen.jpg"
-    />
-    <p>
-      Laila McQueen
-    </p>
-    <p>
-      Alright ladies, lets turn up the juice and see what shakes loose!
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Dax ExclamationPoint"
-      src="http://www.nokeynoshade.party/images/dax-exclamation-point.jpg"
-    />
-    <p>
-      Dax ExclamationPoint
-    </p>
-    <p>
-      What's up, nerds?
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Cynthia Lee Fontaine"
-      src="https://vignette4.wikia.nocookie.net/logosrupaulsdragrace/images/3/34/CynthiaS9.jpg"
-    />
-    <p>
-      Cynthia Lee Fontaine
-    </p>
-    <p>
-      How you doin' mis amores? Do you want to see my cucu?
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Naysha Lopez"
-      src="http://www.nokeynoshade.party/images/naysha-lopez.jpg"
-    />
-    <p>
-      Naysha Lopez
-    </p>
-    <p>
-      Hola! The beauty is here!
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Acid Betty"
-      src="http://www.nokeynoshade.party/images/acid-betty.jpg"
-    />
-    <p>
-      Acid Betty
-    </p>
-    <p>
-      No need to adjust your TV sets. This acid trip is all real!
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Robbie Turner"
-      src="http://www.nokeynoshade.party/images/robbie-turner.jpg"
-    />
-    <p>
-      Robbie Turner
-    </p>
-    <p>
-      I'm gonna tell you a story about flats. No.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Thorgy Thor"
-      src="http://www.nokeynoshade.party/images/thorgy-thor.jpg"
-    />
-    <p>
-      Thorgy Thor
-    </p>
-    <p>
-      Now take this orange shit of my body!
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Derrick Barry"
-      src="http://www.nokeynoshade.party/images/derrick-barry.jpg"
-    />
-    <p>
-      Derrick Barry
-    </p>
-    <p>
-      Who else has been carb free for two weeks?
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Chi Chi DeVayne"
-      src="http://www.nokeynoshade.party/images/chi-chi-devayne.jpg"
-    />
-    <p>
-      Chi Chi DeVayne
-    </p>
-    <p>
-      I'm a cheap queen.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Naomi Smalls"
-      src="http://www.nokeynoshade.party/images/naomi-smalls.jpg"
-    />
-    <p>
-      Naomi Smalls
-    </p>
-    <p>
-      Check your lipstick before you come for me.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Kim Chi"
-      src="http://www.nokeynoshade.party/images/kim-chi.jpg"
-    />
-    <p>
-      Kim Chi
-    </p>
-    <p>
-      Donut come for me!
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Bob the Drag Queen"
-      src="http://www.nokeynoshade.party/images/bob-the-drag-queen.jpg"
-    />
-    <p>
-      Bob the Drag Queen
-    </p>
-    <p>
-      Purse first! Purse first! Walk into the room purse first! Clack!
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Jamyes Mansfield"
-      src="http://www.nokeynoshade.party/images/jaymes-mansfield.jpg"
-    />
-    <p>
-      Jamyes Mansfield
-    </p>
-    <p>
-      These are my summer diamonds. Some are diamonds and some are not.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Kimora Blac"
-      src="http://www.nokeynoshade.party/images/kimora-blac.jpg"
-    />
-    <p>
-      Kimora Blac
-    </p>
-    <p>
-      imora Blac is everyone's sexual preference.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Charlie Hides"
-      src="http://www.nokeynoshade.party/images/charlie-hides.jpg"
-    />
-    <p>
-      Charlie Hides
-    </p>
-    <p>
-      I'm not a lip sync performer, 99% of the acts in London sing live. So I just need Ru to say it: Sashay away
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Eureka O'Hara"
-      src="http://www.nokeynoshade.party/images/eureka-ohara.jpg"
-    />
-    <p>
-      Eureka O'Hara
-    </p>
-    <p>
-      Gag. C'mon big girl!
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Aja"
-      src="http://www.nokeynoshade.party/images/aja.jpg"
-    />
-    <p>
-      Aja
-    </p>
-    <p>
-      You’re perfect, you’re beautiful, you look like Linda Evangelista, you’re a model! Everything about you is perfect! Did you stone those tights?
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Farrah Moan"
-      src="http://www.nokeynoshade.party/images/farrah-moan.jpg"
-    />
-    <p>
-      Farrah Moan
-    </p>
-    <p>
-      Someone told me for the first time in my life that I wear too much highlighter!
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Valentina"
-      src="http://www.nokeynoshade.party/images/valentina.jpg"
-    />
-    <p>
-      Valentina
-    </p>
-    <p>
-      I'm glad these girls see me as a threat.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Nina Bo'Nina Brown"
-      src="http://www.nokeynoshade.party/images/nina-bonina-brown.jpg"
-    />
-    <p>
-      Nina Bo'Nina Brown
-    </p>
-    <p>
-      I'm Nina, Bo'nina, Banana, Fofana, Osama, Bin Laden Brown! Boom boom boom boom
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Alexis Michelle"
-      src="http://www.nokeynoshade.party/images/alexis-michelle.jpg"
-    />
-    <p>
-      Alexis Michelle
-    </p>
-    <p>
-      I'm a good girl, I am.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Peppermint"
-      src="http://www.nokeynoshade.party/images/peppermint.jpg"
-    />
-    <p>
-      Peppermint
-    </p>
-    <p>
-      She's gonna have to pry this from my cold, dead, manicured hands.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Trinity Taylor"
-      src="http://www.nokeynoshade.party/images/trinity-taylor.jpg"
-    />
-    <p>
-      Trinity Taylor
-    </p>
-    <p>
-      I have 50 units of botox in my face, I don't know what y'all want from me.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Sasha Velour"
-      src="http://www.nokeynoshade.party/images/sasha-velour.jpg"
-    />
-    <p>
-      Sasha Velour
-    </p>
-    <p>
-      Don't joke about that.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Shea Coulee"
-      src="http://www.nokeynoshade.party/images/shea-coulee.jpg"
-    />
-    <p>
-      Shea Coulee
-    </p>
-    <p>
-      Trinity, when's your birthday? I'ma mail you some edges.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Aquaria"
-      src="http://www.nokeynoshade.party/images/aquaria.jpg"
-    />
-    <p>
-      Aquaria
-    </p>
-    <p>
-      I don't define drag, drag is defined by me.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Miz Cracker"
-      src="http://www.nokeynoshade.party/images/miz_cracker.jpg"
-    />
-    <p>
-      Miz Cracker
-    </p>
-    <p>
-      I'm a jewish Barbie on bath salts.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Yuhua Hamasaki"
-      src="http://www.nokeynoshade.party/images/yuhua_hamasaki.jpg"
-    />
-    <p>
-      Yuhua Hamasaki
-    </p>
-    <p>
-      Hi, gay people!
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Dusty Rae Bottoms"
-      src="http://www.nokeynoshade.party/images/dusty_rae_bottoms.jpg"
-    />
-    <p>
-      Dusty Rae Bottoms
-    </p>
-    <p>
-      Never loved ya!
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Monet X Change"
-      src="http://www.nokeynoshade.party/images/monet_x_change.jpg"
-    />
-    <p>
-      Monet X Change
-    </p>
-    <p>
-      Oh, don't mind me. I just came here to sweep up the competition, girl.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Asia O'Hara"
-      src="http://www.nokeynoshade.party/images/asia_ohara.jpg"
-    />
-    <p>
-      Asia O'Hara
-    </p>
-    <p>
-      Well God, Texas is back in the house.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Blair St. Clair"
-      src="http://www.nokeynoshade.party/images/blair_st_clair.jpg"
-    />
-    <p>
-      Blair St. Clair
-    </p>
-    <p>
-      I'm Blair St. Clair. I just got here this morning.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Kalorie Karbdashian Williams"
-      src="http://www.nokeynoshade.party/images/kalorie_k_williams.jpg"
-    />
-    <p>
-      Kalorie Karbdashian Williams
-    </p>
-    <p>
-      Hope you're ready for your all-carb, high-calorie diet.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Kameron Michaels"
-      src="http://www.nokeynoshade.party/images/kameron_michaels.jpg"
-    />
-    <p>
-      Kameron Michaels
-    </p>
-    <p>
-      Well I auditioned for Pit Crew, but this is gonna be way more fun.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Mayhem Miller"
-      src="http://www.nokeynoshade.party/images/mayhem_miller.jpg"
-    />
-    <p>
-      Mayhem Miller
-    </p>
-    <p>
-      Guess who finally decided to crash the party.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Monique Heart"
-      src="http://www.nokeynoshade.party/images/monique-heart.jpg"
-    />
-    <p>
-      Monique Heart
-    </p>
-    <p>
-      Cat kitty cat cat cat cat. Cat kitty cat cat cat. Bringing you the heart of Season 10, honey. Monique Heart. The face.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Vanessa Vanjie Mateo"
-      src="http://www.nokeynoshade.party/images/vanessa-vanjie-mateo.jpg"
-    />
-    <p>
-      Vanessa Vanjie Mateo
-    </p>
-    <p>
-      Miss Vaaaanjie... Miss Vaaaanjie... Miss... Vaaanjie
-    </p>
-  </li>
-  <li>
-    <img
-      alt="The Vixen"
-      src="http://www.nokeynoshade.party/images/the_vixen.jpg"
-    />
-    <p>
-      The Vixen
-    </p>
-    <p>
-      I'm just here to fight!
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Soju"
-      src="https://www.nokeynoshade.party/images/soju.jpg"
-    />
-    <p>
-      Soju
-    </p>
-    <p>
-      I have a cyst, I'm currently oozing.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Kahanna Montrese"
-      src="https://www.nokeynoshade.party/images/kahanna-montrese.jpg"
-    />
-    <p>
-      Kahanna Montrese
-    </p>
-    <p>
-      Rhinestones can be for pretty girls.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Honey Davenport"
-      src="https://www.nokeynoshade.party/images/honey-davenport.jpg"
-    />
-    <p>
-      Honey Davenport
-    </p>
-    <p>
-      This honey is raw and unfiltered.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Mercedes Iman Diamond"
-      src="https://www.nokeynoshade.party/images/mercedes-iman-diamond.jpg"
-    />
-    <p>
-      Mercedes Iman Diamond
-    </p>
-    <p>
-      Opulence! You, own, everything
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Ariel Versace"
-      src="https://www.nokeynoshade.party/images/ariel-versace.jpg"
-    />
-    <p>
-      Ariel Versace
-    </p>
-    <p>
-      Nyass
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Scarlet Envy"
-      src="https://www.nokeynoshade.party/images/scarlet-envy.jpg"
-    />
-    <p>
-      Scarlet Envy
-    </p>
-    <p>
-      My drag is about embracing the beauty that you were blessed with... and I happened to be very blessed.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Ra'Jah O'Hara"
-      src="https://www.nokeynoshade.party/images/rajah-ohara.jpg"
-    />
-    <p>
-      Ra'Jah O'Hara
-    </p>
-    <p>
-      I mean I'm gagging from, like, the smell.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Plastique Tiara"
-      src="https://www.nokeynoshade.party/images/plastique-tiara.jpg"
-    />
-    <p>
-      Plastique Tiara
-    </p>
-    <p>
-      I like to describe my drag as 3 P's: polished, persistent and pussy.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Shuga Cain"
-      src="https://www.nokeynoshade.party/images/shuga-cain.jpg"
-    />
-    <p>
-      Shuga Cain
-    </p>
-    <p>
-      Do I have to really say 40?
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Nina West"
-      src="https://www.nokeynoshade.party/images/nina-west.jpg"
-    />
-    <p>
-      Nina West
-    </p>
-    <p>
-      Welcome to Season 11. It looks like things just got... elevengendary.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Silky Nutmeg Ganache"
-      src="https://www.nokeynoshade.party/images/silky-nutmeg-ganache.jpg"
-    />
-    <p>
-      Silky Nutmeg Ganache
-    </p>
-    <p>
-      Big Silk got the good ol' milk!
-    </p>
-  </li>
-  <li>
-    <img
-      alt="A'keria Chanel Davenport"
-      src="https://www.nokeynoshade.party/images/akeria-chanel-davenport.jpg"
-    />
-    <p>
-      A'keria Chanel Davenport
-    </p>
-    <p>
-      Oh yes, it's me: Miss A'keria D-A-V-E-N-P-O-R, and as you can see, I'm the motherfucking T.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Brooke Lynn Hytes"
-      src="https://www.nokeynoshade.party/images/brooke-lynn-hytes.jpg"
-    />
-    <p>
-      Brooke Lynn Hytes
-    </p>
-    <p>
-      Never fear, the queen of the North is here.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Yvie Oddly"
-      src="https://www.nokeynoshade.party/images/yvie-oddly.jpg"
-    />
-    <p>
-      Yvie Oddly
-    </p>
-    <p>
-      Move over ladies, this race just took an odd turn.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Aiden Zhane"
-      src="https://static.wikia.nocookie.net/logosrupaulsdragrace/images/c/cd/AidenZhane.jpg/revision/latest/scale-to-width-down/1000?cb=20200124021811"
-    />
-    <p>
-      Aiden Zhane
-    </p>
-    <p>
-      boo
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Brita Filter"
-      src="https://static.wikia.nocookie.net/logosrupaulsdragrace/images/7/7f/Brita.jpg"
-    />
-    <p>
-      Brita Filter
-    </p>
-    <p>
-      My name is Brita and I am THE QUEEN of New York City.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Crystal Methyd"
-      src="https://static.wikia.nocookie.net/logosrupaulsdragrace/images/f/ff/CrystalMethyd.jpg"
-    />
-    <p>
-      Crystal Methyd
-    </p>
-    <p>
-      I'm Crystal Methyd and I'm a little devil that likes to raise hell in the Bible Belt.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Dahlia Sinn"
-      src="https://static.wikia.nocookie.net/logosrupaulsdragrace/images/1/16/DahliaSin.jpg"
-    />
-    <p>
-      Dahlia Sinn
-    </p>
-    <p>
-      I'm Dahlia Sin and I'm here to take your man.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Gigi Goode"
-      src="https://static.wikia.nocookie.net/logosrupaulsdragrace/images/d/d2/GigiGoode.jpg"
-    />
-    <p>
-      Gigi Goode
-    </p>
-    <p>
-      My name is Gigi Goode and I'm not just good, I'm incredible.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Heidi N Closet"
-      src="https://static.wikia.nocookie.net/logosrupaulsdragrace/images/8/85/HeidiNCloset.jpg"
-    />
-    <p>
-      Heidi N Closet
-    </p>
-    <p>
-      Heidi to the closet is her name, being soft and supple is her game!
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Jackie Cox"
-      src="https://static.wikia.nocookie.net/logosrupaulsdragrace/images/5/52/JackieCox.jpg"
-    />
-    <p>
-      Jackie Cox
-    </p>
-    <p>
-      Roll call...I'm Jackie! Salaam! The Persian princess of drag has arrived!
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Jaida Essence Hall"
-      src="https://static.wikia.nocookie.net/logosrupaulsdragrace/images/b/b5/JaidaEssenceHall.jpg"
-    />
-    <p>
-      Jaida Essence Hall
-    </p>
-    <p>
-      LOOK OVER THERE!
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Jan"
-      src="https://static.wikia.nocookie.net/logosrupaulsdragrace/images/8/82/Jan.jpg"
-    />
-    <p>
-      Jan
-    </p>
-    <p>
-      Oh, it's just Jan!
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Nicky Doll"
-      src="https://static.wikia.nocookie.net/logosrupaulsdragrace/images/6/66/NickyDoll.jpg"
-    />
-    <p>
-      Nicky Doll
-    </p>
-    <p>
-      Well, that was a long flight.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Rock M. Sakura"
-      src="https://static.wikia.nocookie.net/logosrupaulsdragrace/images/c/cf/RockMSakura.jpg"
-    />
-    <p>
-      Rock M. Sakura
-    </p>
-    <p>
-      All tuck and no play makes Rock M. a crazy bitch!
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Widow Von'Du"
-      src="https://static.wikia.nocookie.net/logosrupaulsdragrace/images/2/24/WidowVonDu.jpg"
-    />
-    <p>
-      Widow Von'Du
-    </p>
-    <p>
-      Relax your throat bitches, 'cause you're gagging.
-    </p>
-  </li>
-  <li>
-    <img
-      alt="Sh*rry P**"
-    />
-    <p>
-      Sh*rry P**
-    </p>
-    <p />
-  </li>
+  <a
+    href="/1"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Victoria 'Porkchop' Parker
+        </p>
+        <p>
+          "
+          Would you fuck me? I'd fuck me.
+          "
+        </p>
+        <img
+          alt="Victoria 'Porkchop' Parker"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/victoria-porkchop-parker.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/2"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Tammie Brown
+        </p>
+        <p>
+          "
+          I'm not a slut, I'm a lady. You look under my skirt, and it will stick you in the eye though.
+          "
+        </p>
+        <img
+          alt="Tammie Brown"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/tammie-brown.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/3"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Akashia
+        </p>
+        <p>
+          "
+          If I was a girl, I'd be a stripper, or a slut pregnant with a whole bunch of children.
+          "
+        </p>
+        <img
+          alt="Akashia"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/akashia.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/4"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Jade
+        </p>
+        <p>
+          "
+          Jade is definitely my alter-ego, basically she has more balls than I do!
+          "
+        </p>
+        <img
+          alt="Jade"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/jade.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/5"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Ongina
+        </p>
+        <p>
+          "
+          If I don't win this, I swear to god I'm gonna cut someone!
+          "
+        </p>
+        <img
+          alt="Ongina"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/ongina.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/9"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Shannel
+        </p>
+        <p>
+          "
+          I am amazed at myself; In my mind... I've already won.
+          "
+        </p>
+        <img
+          alt="Shannel"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/shannel.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/10"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Rebecca Glasscock
+        </p>
+        <p>
+          "
+          ""
+          "
+        </p>
+        <img
+          alt="Rebecca Glasscock"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/rebecca-glasscock.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/11"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Nina Flowers
+        </p>
+        <p>
+          "
+          I don't consider myself as a female impersonator, I like to be more androgynous. It's an extravaganza.
+          "
+        </p>
+        <img
+          alt="Nina Flowers"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/nina-flowers.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/12"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Bebe Zahara Benet
+        </p>
+        <p>
+          "
+          I bring a lot of international influence, and right now I really feel like I'm ahead of the game.
+          "
+        </p>
+        <img
+          alt="Bebe Zahara Benet"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/bebe-zahara-benet.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/13"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Shangela Laquifa Wadley
+        </p>
+        <p>
+          "
+          Halleloo!
+          "
+        </p>
+        <img
+          alt="Shangela Laquifa Wadley"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/shangela-laquifa-wadley.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/14"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Nicole Paige Brooks
+        </p>
+        <p>
+          "
+          I'm Nicole Paige Brooks, from ATLANTA, GEORGIA!
+          "
+        </p>
+        <img
+          alt="Nicole Paige Brooks"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/nicole-paige-brooks.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/15"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Mystique Summers Madison
+        </p>
+        <p>
+          "
+          Bitch I am from Chicago!
+          "
+        </p>
+        <img
+          alt="Mystique Summers Madison"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/mystique-summers-madison.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/16"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Sonique
+        </p>
+        <p>
+          "
+          My time is valuable too, so hit it!
+          "
+        </p>
+        <img
+          alt="Sonique"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/sonique.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/17"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Morgan McMichaels
+        </p>
+        <p>
+          "
+          People think that, since I'm pretty, and I'm sexy, that I should just do slutty all the time.
+          "
+        </p>
+        <img
+          alt="Morgan McMichaels"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/morgan-mcmichaels.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/18"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Sahara Davenport
+        </p>
+        <p>
+          "
+          I'm happy I survived, but of course I'm sad, you know I sent my friend home.
+          "
+        </p>
+        <img
+          alt="Sahara Davenport"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/sahara-davenport.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/19"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Jessica Wild
+        </p>
+        <p>
+          "
+          My biggest fear in the competition is, with my English, but if I don't understand something I am going to smile..
+          "
+        </p>
+        <img
+          alt="Jessica Wild"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/jessica-wild.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/20"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Pandora Boxx
+        </p>
+        <p>
+          "
+          I'm Pandora Boxx and I'm thirty-bleep years old.
+          "
+        </p>
+        <img
+          alt="Pandora Boxx"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/pandora-boxx.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/21"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Tatianna
+        </p>
+        <p>
+          "
+          Cause baby boy what you see, isnt always the truth.
+          "
+        </p>
+        <img
+          alt="Tatianna"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/tatianna.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/22"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Jujubee
+        </p>
+        <p>
+          "
+          Jujubee's just this fabulous Asian girl, she's very like poppy and like, fashion-forward. She loves accessories and she likes glitter, 'cause it's wicked sparkly!
+          "
+        </p>
+        <img
+          alt="Jujubee"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/jujubee.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/23"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Raven
+        </p>
+        <p>
+          "
+          I like to be that mysterious, dark, ice queen. I think I have a look that people might be a little intimidated by.
+          "
+        </p>
+        <img
+          alt="Raven"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/raven.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/24"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Tyra Sanchez
+        </p>
+        <p>
+          "
+          I'm not a bitch. I'm America's Sweetheart.
+          "
+        </p>
+        <img
+          alt="Tyra Sanchez"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/tyra-sanchez.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/25"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Venus D-Lite
+        </p>
+        <p>
+          "
+          You can be my friend or you can be my enemy, just say it to my face.
+          "
+        </p>
+        <img
+          alt="Venus D-Lite"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/venus-d-lite.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/26"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Phoenix
+        </p>
+        <p>
+          "
+          You can be my friend or you can be my enemy, just say it to my face.
+          "
+        </p>
+        <img
+          alt="Phoenix"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/phoenix.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/27"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Mimi Imfurst
+        </p>
+        <p>
+          "
+          This time around, I will not pick nobody up, it is time for America to see who I really am.
+          "
+        </p>
+        <img
+          alt="Mimi Imfurst"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/mimi-imfurst.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/28"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          India Ferrah
+        </p>
+        <p>
+          "
+          ""
+          "
+        </p>
+        <img
+          alt="India Ferrah"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/india-ferrah.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/29"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Mariah Balenciaga
+        </p>
+        <p>
+          "
+          My name is Mariah, aka Mariah Paris, aka Mariah Successful.
+          "
+        </p>
+        <img
+          alt="Mariah Balenciaga"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/mariah-balenciaga.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/30"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Stacey Lane Matthews
+        </p>
+        <p>
+          "
+          I am definitely a country queen. I live on a dirt road surrounded by corn fields. Can't get more country than that.
+          "
+        </p>
+        <img
+          alt="Stacey Lane Matthews"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/stacey-lane-matthews.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/31"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Delta Work
+        </p>
+        <p>
+          "
+          ""
+          "
+        </p>
+        <img
+          alt="Delta Work"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/delta-work.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/32"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Carmen Carrera
+        </p>
+        <p>
+          "
+          ""
+          "
+        </p>
+        <img
+          alt="Carmen Carrera"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/carmen-carrera.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/33"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Yara Sofia
+        </p>
+        <p>
+          "
+          ""
+          "
+        </p>
+        <img
+          alt="Yara Sofia"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/yara-sofia.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/34"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Alexis Mateo
+        </p>
+        <p>
+          "
+          I don't like when they label you as 'the latin queen'.
+          "
+        </p>
+        <img
+          alt="Alexis Mateo"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/alexis-mateo.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/35"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Manila Luzon
+        </p>
+        <p>
+          "
+          Try something new -- do it with an Indian guy!
+          "
+        </p>
+        <img
+          alt="Manila Luzon"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/manila-luzon.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/36"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Raja
+        </p>
+        <p>
+          "
+          They're a star fucker. You're a star. Let them fuck the star.
+          "
+        </p>
+        <img
+          alt="Raja"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/raja.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/37"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Alisa Summers
+        </p>
+        <p>
+          "
+          I'm definitely a fishy queen, I can walk down the street and I can never get clocked! People look at me more so about how big my titties and ass are!
+          "
+        </p>
+        <img
+          alt="Alisa Summers"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/alisa-summers.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/38"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          LaShauwn Beyond
+        </p>
+        <p>
+          "
+          I'm not here to make best buddies bitch! This is not RuPaul's Best Friend Race!
+          "
+        </p>
+        <img
+          alt="LaShauwn Beyond"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/lashauwn-beyond.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/39"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          The Princess
+        </p>
+        <p>
+          "
+          I'm the princess of drag.
+          "
+        </p>
+        <img
+          alt="The Princess"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/the-princess.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/40"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Madam LaQueer
+        </p>
+        <p>
+          "
+          Are we talking about beavers or... EEEEWWWWWWW!
+          "
+        </p>
+        <img
+          alt="Madam LaQueer"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/madam-laqueer.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/41"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Milan
+        </p>
+        <p>
+          "
+          Milan is FIERCE! She's FABULOUS, she's DIVA! She can act, sing, dance, produce, and you don't want it from her!
+          "
+        </p>
+        <img
+          alt="Milan"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/milan.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/42"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Jiggly Caliente
+        </p>
+        <p>
+          "
+          Jiggly is New York's plus size barbie, she's got swerve for your nerve, you can't take her!
+          "
+        </p>
+        <img
+          alt="Jiggly Caliente"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/jiggly-caliente.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/43"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Willam Belli
+        </p>
+        <p>
+          "
+          I'm not gonna RuPaulogize for anything that I'm doing now.
+          "
+        </p>
+        <img
+          alt="Willam Belli"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/willam-belli.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/44"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Dida Ritz
+        </p>
+        <p>
+          "
+          I don't want her leaving saying that Drag Queen did a horrible job on my song.
+          "
+        </p>
+        <img
+          alt="Dida Ritz"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/dida-ritz.png"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/45"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Kenya Michaels
+        </p>
+        <p>
+          "
+          I'm a little person, but I'm FIERCE... BITCH!
+          "
+        </p>
+        <img
+          alt="Kenya Michaels"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/kenya-michaels.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/46"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Latrice Royale
+        </p>
+        <p>
+          "
+          Jesus is a biscuit! Let him sop you up!
+          "
+        </p>
+        <img
+          alt="Latrice Royale"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/latrice-royale.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/47"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Phi Phi O'Hara
+        </p>
+        <p>
+          "
+          You don't need RuPaul to be big. I can say for a fact that people knew who Phi Phi was before I got here. So I don't need RuPaul to say I'm sickening. I know I'm sickening. I don't need her to tell me that.
+          "
+        </p>
+        <img
+          alt="Phi Phi O'Hara"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/phi-phi-o'hara.png"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/48"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Chad Michaels
+        </p>
+        <p>
+          "
+          Everything I've gone through in my life has been because of Cher... the people I've gotten to meet, the clothes on my back. I basically owe her everything.
+          "
+        </p>
+        <img
+          alt="Chad Michaels"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/chad-michaels.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/49"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Sharon Needles
+        </p>
+        <p>
+          "
+          I look spooky, but I'm really nice!... At least for now!
+          "
+        </p>
+        <img
+          alt="Sharon Needles"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/sharon-needles.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/50"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Penny Tration
+        </p>
+        <p>
+          "
+          Hello boys!
+          "
+        </p>
+        <img
+          alt="Penny Tration"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/penny-tration.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/51"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Serena Cha Cha
+        </p>
+        <p>
+          "
+          Does it bother you I keep saying I'm 21?!
+          "
+        </p>
+        <img
+          alt="Serena Cha Cha"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/serena-chacha.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/52"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Monica Beverly Hillz
+        </p>
+        <p>
+          "
+          Hello girls
+          "
+        </p>
+        <img
+          alt="Monica Beverly Hillz"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/monica-beverly-hillz.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/53"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Vivienne Piney
+        </p>
+        <p>
+          "
+          Hey y'all!
+          "
+        </p>
+        <img
+          alt="Vivienne Piney"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/vivienne-piney.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/54"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Honey Mahogany
+        </p>
+        <p>
+          "
+          Hey sisters!
+          "
+        </p>
+        <img
+          alt="Honey Mahogany"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/honey-mahogany.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/55"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Lineysha Sparx
+        </p>
+        <p>
+          "
+          ""
+          "
+        </p>
+        <img
+          alt="Lineysha Sparx"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/lineysha-sparkx.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/56"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Jade Jolie
+        </p>
+        <p>
+          "
+          Serving up fish, tuna on a platter.
+          "
+        </p>
+        <img
+          alt="Jade Jolie"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/jade-jolie.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/57"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Ivy Winters
+        </p>
+        <p>
+          "
+          Hey ladies! Oh my god!
+          "
+        </p>
+        <img
+          alt="Ivy Winters"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/ivy-winters.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/58"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Alyssa Edwards
+        </p>
+        <p>
+          "
+          BACKROLLS?!?!
+          "
+        </p>
+        <img
+          alt="Alyssa Edwards"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/alyssa-edwards.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/59"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Coco Montrese
+        </p>
+        <p>
+          "
+          I'm not joking bitch!
+          "
+        </p>
+        <img
+          alt="Coco Montrese"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/coco-montrese.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/60"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Detox Icunt
+        </p>
+        <p>
+          "
+          Wow... Holy shit we're here
+          "
+        </p>
+        <img
+          alt="Detox Icunt"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/detox.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/61"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Roxxy Andrews
+        </p>
+        <p>
+          "
+          When life pulls you down, put on a shiny sequence gown
+          "
+        </p>
+        <img
+          alt="Roxxy Andrews"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/roxxy-andrews.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/62"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Alaska Thunderfuck 5000
+        </p>
+        <p>
+          "
+          I'll send you 10,000 dollars via PayPal if you let me stay in this competition
+          "
+        </p>
+        <img
+          alt="Alaska Thunderfuck 5000"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/alaska-thunderfuck.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/63"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Jinkx Monsoon
+        </p>
+        <p>
+          "
+          The name comes from Jinx, like you owe me a coke and Monsoon like the natural disaster because if there's a one in a million chance that something will go awry it's most likely going to happen to Jinkx, of course...
+          "
+        </p>
+        <img
+          alt="Jinkx Monsoon"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/jinkx-monsoon.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/64"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Kelly Mantle
+        </p>
+        <p>
+          "
+          Don't wear bacon!
+          "
+        </p>
+        <img
+          alt="Kelly Mantle"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/kelly-mantle.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/65"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Magnolia Crawford
+        </p>
+        <p>
+          "
+          I view myself as the world's most glamorous trash queen.
+          "
+        </p>
+        <img
+          alt="Magnolia Crawford"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/magnolia-crawford.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/66"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Vivacious
+        </p>
+        <p>
+          "
+          Liza Minelli lies.
+          "
+        </p>
+        <img
+          alt="Vivacious"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/vivacious.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/70"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          April Carrion
+        </p>
+        <p>
+          "
+          ""
+          "
+        </p>
+        <img
+          alt="April Carrion"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/april-carrion.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/71"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Gia Gunn
+        </p>
+        <p>
+          "
+          Just got off the boat, you know, little trip from Asia, just landed like fresh tilapia
+          "
+        </p>
+        <img
+          alt="Gia Gunn"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/gia-gunn.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/72"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Milk
+        </p>
+        <p>
+          "
+          Milk does the body good, gurl.
+          "
+        </p>
+        <img
+          alt="Milk"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/milk.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/73"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Laganja Estranja
+        </p>
+        <p>
+          "
+          Well I'm young and I'm hung and I clearly march to the beat of my own drum, so props to ya, mawma!
+          "
+        </p>
+        <img
+          alt="Laganja Estranja"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/laganja-estranga.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/74"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Trinity K Bonet
+        </p>
+        <p>
+          "
+          ""
+          "
+        </p>
+        <img
+          alt="Trinity K Bonet"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/trinity-k-bonet.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/75"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          BenDeLaCreme
+        </p>
+        <p>
+          "
+          Excuse me, we originated the language
+          "
+        </p>
+        <img
+          alt="BenDeLaCreme"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/benda-la-creme.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/76"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Joslyn Fox
+        </p>
+        <p>
+          "
+          I'm kinda like the black horse of the compition.
+          "
+        </p>
+        <img
+          alt="Joslyn Fox"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/josyln-fox.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/77"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Darienne Lake
+        </p>
+        <p>
+          "
+          Well, I am two tons of fun.
+          "
+        </p>
+        <img
+          alt="Darienne Lake"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/darienne-lake.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/78"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Courtney Act
+        </p>
+        <p>
+          "
+          Sewing is not my forte but... everything else is.
+          "
+        </p>
+        <img
+          alt="Courtney Act"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/courtney-act.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/79"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Adore Delano
+        </p>
+        <p>
+          "
+          So Laganja has ideas and I mean I was raised right so all I can do is nervous laugh at them because I don't know how to respond to them. I'm not going to say 'No bitch that's an awful idea and mine is better' but that was the truth of this situation.
+          "
+        </p>
+        <img
+          alt="Adore Delano"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/adore-delano.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/80"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Bianca Del Rio
+        </p>
+        <p>
+          "
+          I will show you versatility when Santino wins a sewing competition and Visage wears a fucking turtle neck!
+          "
+        </p>
+        <img
+          alt="Bianca Del Rio"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/bianca-del-rio.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/81"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Tempest DuJour
+        </p>
+        <p>
+          "
+          You don't stop dreaming at a certain age!
+          "
+        </p>
+        <img
+          alt="Tempest DuJour"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/tempest-dujour.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/82"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Sasha Belle
+        </p>
+        <p>
+          "
+          I wore a lobster dress
+          "
+        </p>
+        <img
+          alt="Sasha Belle"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/sasha-belle.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/83"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Jasmine Masters
+        </p>
+        <p>
+          "
+          You gotta pop dem corns so the kids can eat!
+          "
+        </p>
+        <img
+          alt="Jasmine Masters"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/jasmine-masters.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/84"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Mrs. Kasha Davis
+        </p>
+        <p>
+          "
+          There's always time for a cocktail
+          "
+        </p>
+        <img
+          alt="Mrs. Kasha Davis"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/mrs-kasha-davis.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/85"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Kandy Ho
+        </p>
+        <p>
+          "
+          This is right on my alley!
+          "
+        </p>
+        <img
+          alt="Kandy Ho"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/kandy-ho.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/86"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Max
+        </p>
+        <p>
+          "
+          It's a Drag competition; if you're not optimistic and having fun then you're not doing it right!
+          "
+        </p>
+        <img
+          alt="Max"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/max.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/87"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Jaidynn Diore Fierce
+        </p>
+        <p>
+          "
+          My name is Jaidynn Diore Fierce. Capital F-I-E-R-C-E because I am what? Fierce
+          "
+        </p>
+        <img
+          alt="Jaidynn Diore Fierce"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/jaidynn-diore-fierce.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/88"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Miss Fame
+        </p>
+        <p>
+          "
+          I love chickens! They are my favorite animal.
+          "
+        </p>
+        <img
+          alt="Miss Fame"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/miss-fame.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/89"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Trixie Mattel
+        </p>
+        <p>
+          "
+          Alright, Public school, calm down.
+          "
+        </p>
+        <img
+          alt="Trixie Mattel"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/trixie-mattel.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/90"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Katya Zamolodchikova
+        </p>
+        <p>
+          "
+          I’m trying to just serve sexy and confident whore slutty cougar on the prowl. 3rd rate Faith Hill impersonator. 80% sexy, 20% disgusting.
+          "
+        </p>
+        <img
+          alt="Katya Zamolodchikova"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/katya.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/91"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Kennedy Davenport
+        </p>
+        <p>
+          "
+          Love is understanding, unconditional. Love is accepting, and never fails.
+          "
+        </p>
+        <img
+          alt="Kennedy Davenport"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/kennedy-davenport.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/92"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Pearl
+        </p>
+        <p>
+          "
+          Very flazéda.
+          "
+        </p>
+        <img
+          alt="Pearl"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/pearl.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/93"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Ginger Minj
+        </p>
+        <p>
+          "
+          I'm about to flood my basement.
+          "
+        </p>
+        <img
+          alt="Ginger Minj"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/ginger-minj.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/94"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Violet Chachki
+        </p>
+        <p>
+          "
+          Pain is beauty and I'm the prettiest.
+          "
+        </p>
+        <img
+          alt="Violet Chachki"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/violet-chachki.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/95"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Laila McQueen
+        </p>
+        <p>
+          "
+          Alright ladies, lets turn up the juice and see what shakes loose!
+          "
+        </p>
+        <img
+          alt="Laila McQueen"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/laila-mcqueen.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/96"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Dax ExclamationPoint
+        </p>
+        <p>
+          "
+          What's up, nerds?
+          "
+        </p>
+        <img
+          alt="Dax ExclamationPoint"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/dax-exclamation-point.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/97"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Cynthia Lee Fontaine
+        </p>
+        <p>
+          "
+          How you doin' mis amores? Do you want to see my cucu?
+          "
+        </p>
+        <img
+          alt="Cynthia Lee Fontaine"
+          class="pic"
+          src="https://vignette4.wikia.nocookie.net/logosrupaulsdragrace/images/3/34/CynthiaS9.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/98"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Naysha Lopez
+        </p>
+        <p>
+          "
+          Hola! The beauty is here!
+          "
+        </p>
+        <img
+          alt="Naysha Lopez"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/naysha-lopez.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/99"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Acid Betty
+        </p>
+        <p>
+          "
+          No need to adjust your TV sets. This acid trip is all real!
+          "
+        </p>
+        <img
+          alt="Acid Betty"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/acid-betty.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/100"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Robbie Turner
+        </p>
+        <p>
+          "
+          I'm gonna tell you a story about flats. No.
+          "
+        </p>
+        <img
+          alt="Robbie Turner"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/robbie-turner.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/101"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Thorgy Thor
+        </p>
+        <p>
+          "
+          Now take this orange shit of my body!
+          "
+        </p>
+        <img
+          alt="Thorgy Thor"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/thorgy-thor.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/102"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Derrick Barry
+        </p>
+        <p>
+          "
+          Who else has been carb free for two weeks?
+          "
+        </p>
+        <img
+          alt="Derrick Barry"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/derrick-barry.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/103"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Chi Chi DeVayne
+        </p>
+        <p>
+          "
+          I'm a cheap queen.
+          "
+        </p>
+        <img
+          alt="Chi Chi DeVayne"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/chi-chi-devayne.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/104"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Naomi Smalls
+        </p>
+        <p>
+          "
+          Check your lipstick before you come for me.
+          "
+        </p>
+        <img
+          alt="Naomi Smalls"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/naomi-smalls.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/105"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Kim Chi
+        </p>
+        <p>
+          "
+          Donut come for me!
+          "
+        </p>
+        <img
+          alt="Kim Chi"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/kim-chi.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/106"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Bob the Drag Queen
+        </p>
+        <p>
+          "
+          Purse first! Purse first! Walk into the room purse first! Clack!
+          "
+        </p>
+        <img
+          alt="Bob the Drag Queen"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/bob-the-drag-queen.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/107"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Jamyes Mansfield
+        </p>
+        <p>
+          "
+          These are my summer diamonds. Some are diamonds and some are not.
+          "
+        </p>
+        <img
+          alt="Jamyes Mansfield"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/jaymes-mansfield.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/108"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Kimora Blac
+        </p>
+        <p>
+          "
+          imora Blac is everyone's sexual preference.
+          "
+        </p>
+        <img
+          alt="Kimora Blac"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/kimora-blac.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/109"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Charlie Hides
+        </p>
+        <p>
+          "
+          I'm not a lip sync performer, 99% of the acts in London sing live. So I just need Ru to say it: Sashay away
+          "
+        </p>
+        <img
+          alt="Charlie Hides"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/charlie-hides.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/110"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Eureka O'Hara
+        </p>
+        <p>
+          "
+          Gag. C'mon big girl!
+          "
+        </p>
+        <img
+          alt="Eureka O'Hara"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/eureka-ohara.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/111"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Aja
+        </p>
+        <p>
+          "
+          You’re perfect, you’re beautiful, you look like Linda Evangelista, you’re a model! Everything about you is perfect! Did you stone those tights?
+          "
+        </p>
+        <img
+          alt="Aja"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/aja.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/112"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Farrah Moan
+        </p>
+        <p>
+          "
+          Someone told me for the first time in my life that I wear too much highlighter!
+          "
+        </p>
+        <img
+          alt="Farrah Moan"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/farrah-moan.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/113"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Valentina
+        </p>
+        <p>
+          "
+          I'm glad these girls see me as a threat.
+          "
+        </p>
+        <img
+          alt="Valentina"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/valentina.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/114"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Nina Bo'Nina Brown
+        </p>
+        <p>
+          "
+          I'm Nina, Bo'nina, Banana, Fofana, Osama, Bin Laden Brown! Boom boom boom boom
+          "
+        </p>
+        <img
+          alt="Nina Bo'Nina Brown"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/nina-bonina-brown.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/118"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Alexis Michelle
+        </p>
+        <p>
+          "
+          I'm a good girl, I am.
+          "
+        </p>
+        <img
+          alt="Alexis Michelle"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/alexis-michelle.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/119"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Peppermint
+        </p>
+        <p>
+          "
+          She's gonna have to pry this from my cold, dead, manicured hands.
+          "
+        </p>
+        <img
+          alt="Peppermint"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/peppermint.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/123"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Trinity Taylor
+        </p>
+        <p>
+          "
+          I have 50 units of botox in my face, I don't know what y'all want from me.
+          "
+        </p>
+        <img
+          alt="Trinity Taylor"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/trinity-taylor.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/124"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Sasha Velour
+        </p>
+        <p>
+          "
+          Don't joke about that.
+          "
+        </p>
+        <img
+          alt="Sasha Velour"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/sasha-velour.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/125"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Shea Coulee
+        </p>
+        <p>
+          "
+          Trinity, when's your birthday? I'ma mail you some edges.
+          "
+        </p>
+        <img
+          alt="Shea Coulee"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/shea-coulee.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/126"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Aquaria
+        </p>
+        <p>
+          "
+          I don't define drag, drag is defined by me.
+          "
+        </p>
+        <img
+          alt="Aquaria"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/aquaria.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/127"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Miz Cracker
+        </p>
+        <p>
+          "
+          I'm a jewish Barbie on bath salts.
+          "
+        </p>
+        <img
+          alt="Miz Cracker"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/miz_cracker.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/128"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Yuhua Hamasaki
+        </p>
+        <p>
+          "
+          Hi, gay people!
+          "
+        </p>
+        <img
+          alt="Yuhua Hamasaki"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/yuhua_hamasaki.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/129"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Dusty Rae Bottoms
+        </p>
+        <p>
+          "
+          Never loved ya!
+          "
+        </p>
+        <img
+          alt="Dusty Rae Bottoms"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/dusty_rae_bottoms.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/130"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Monet X Change
+        </p>
+        <p>
+          "
+          Oh, don't mind me. I just came here to sweep up the competition, girl.
+          "
+        </p>
+        <img
+          alt="Monet X Change"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/monet_x_change.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/131"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Asia O'Hara
+        </p>
+        <p>
+          "
+          Well God, Texas is back in the house.
+          "
+        </p>
+        <img
+          alt="Asia O'Hara"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/asia_ohara.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/132"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Blair St. Clair
+        </p>
+        <p>
+          "
+          I'm Blair St. Clair. I just got here this morning.
+          "
+        </p>
+        <img
+          alt="Blair St. Clair"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/blair_st_clair.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/133"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Kalorie Karbdashian Williams
+        </p>
+        <p>
+          "
+          Hope you're ready for your all-carb, high-calorie diet.
+          "
+        </p>
+        <img
+          alt="Kalorie Karbdashian Williams"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/kalorie_k_williams.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/134"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Kameron Michaels
+        </p>
+        <p>
+          "
+          Well I auditioned for Pit Crew, but this is gonna be way more fun.
+          "
+        </p>
+        <img
+          alt="Kameron Michaels"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/kameron_michaels.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/135"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Mayhem Miller
+        </p>
+        <p>
+          "
+          Guess who finally decided to crash the party.
+          "
+        </p>
+        <img
+          alt="Mayhem Miller"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/mayhem_miller.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/136"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Monique Heart
+        </p>
+        <p>
+          "
+          Cat kitty cat cat cat cat. Cat kitty cat cat cat. Bringing you the heart of Season 10, honey. Monique Heart. The face.
+          "
+        </p>
+        <img
+          alt="Monique Heart"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/monique-heart.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/137"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Vanessa Vanjie Mateo
+        </p>
+        <p>
+          "
+          Miss Vaaaanjie... Miss Vaaaanjie... Miss... Vaaanjie
+          "
+        </p>
+        <img
+          alt="Vanessa Vanjie Mateo"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/vanessa-vanjie-mateo.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/138"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          The Vixen
+        </p>
+        <p>
+          "
+          I'm just here to fight!
+          "
+        </p>
+        <img
+          alt="The Vixen"
+          class="pic"
+          src="http://www.nokeynoshade.party/images/the_vixen.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/139"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Soju
+        </p>
+        <p>
+          "
+          I have a cyst, I'm currently oozing.
+          "
+        </p>
+        <img
+          alt="Soju"
+          class="pic"
+          src="https://www.nokeynoshade.party/images/soju.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/140"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Kahanna Montrese
+        </p>
+        <p>
+          "
+          Rhinestones can be for pretty girls.
+          "
+        </p>
+        <img
+          alt="Kahanna Montrese"
+          class="pic"
+          src="https://www.nokeynoshade.party/images/kahanna-montrese.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/141"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Honey Davenport
+        </p>
+        <p>
+          "
+          This honey is raw and unfiltered.
+          "
+        </p>
+        <img
+          alt="Honey Davenport"
+          class="pic"
+          src="https://www.nokeynoshade.party/images/honey-davenport.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/142"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Mercedes Iman Diamond
+        </p>
+        <p>
+          "
+          Opulence! You, own, everything
+          "
+        </p>
+        <img
+          alt="Mercedes Iman Diamond"
+          class="pic"
+          src="https://www.nokeynoshade.party/images/mercedes-iman-diamond.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/143"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Ariel Versace
+        </p>
+        <p>
+          "
+          Nyass
+          "
+        </p>
+        <img
+          alt="Ariel Versace"
+          class="pic"
+          src="https://www.nokeynoshade.party/images/ariel-versace.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/144"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Scarlet Envy
+        </p>
+        <p>
+          "
+          My drag is about embracing the beauty that you were blessed with... and I happened to be very blessed.
+          "
+        </p>
+        <img
+          alt="Scarlet Envy"
+          class="pic"
+          src="https://www.nokeynoshade.party/images/scarlet-envy.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/145"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Ra'Jah O'Hara
+        </p>
+        <p>
+          "
+          I mean I'm gagging from, like, the smell.
+          "
+        </p>
+        <img
+          alt="Ra'Jah O'Hara"
+          class="pic"
+          src="https://www.nokeynoshade.party/images/rajah-ohara.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/146"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Plastique Tiara
+        </p>
+        <p>
+          "
+          I like to describe my drag as 3 P's: polished, persistent and pussy.
+          "
+        </p>
+        <img
+          alt="Plastique Tiara"
+          class="pic"
+          src="https://www.nokeynoshade.party/images/plastique-tiara.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/147"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Shuga Cain
+        </p>
+        <p>
+          "
+          Do I have to really say 40?
+          "
+        </p>
+        <img
+          alt="Shuga Cain"
+          class="pic"
+          src="https://www.nokeynoshade.party/images/shuga-cain.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/148"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Nina West
+        </p>
+        <p>
+          "
+          Welcome to Season 11. It looks like things just got... elevengendary.
+          "
+        </p>
+        <img
+          alt="Nina West"
+          class="pic"
+          src="https://www.nokeynoshade.party/images/nina-west.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/149"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Silky Nutmeg Ganache
+        </p>
+        <p>
+          "
+          Big Silk got the good ol' milk!
+          "
+        </p>
+        <img
+          alt="Silky Nutmeg Ganache"
+          class="pic"
+          src="https://www.nokeynoshade.party/images/silky-nutmeg-ganache.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/150"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          A'keria Chanel Davenport
+        </p>
+        <p>
+          "
+          Oh yes, it's me: Miss A'keria D-A-V-E-N-P-O-R, and as you can see, I'm the motherfucking T.
+          "
+        </p>
+        <img
+          alt="A'keria Chanel Davenport"
+          class="pic"
+          src="https://www.nokeynoshade.party/images/akeria-chanel-davenport.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/151"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Brooke Lynn Hytes
+        </p>
+        <p>
+          "
+          Never fear, the queen of the North is here.
+          "
+        </p>
+        <img
+          alt="Brooke Lynn Hytes"
+          class="pic"
+          src="https://www.nokeynoshade.party/images/brooke-lynn-hytes.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/152"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Yvie Oddly
+        </p>
+        <p>
+          "
+          Move over ladies, this race just took an odd turn.
+          "
+        </p>
+        <img
+          alt="Yvie Oddly"
+          class="pic"
+          src="https://www.nokeynoshade.party/images/yvie-oddly.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/155"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Aiden Zhane
+        </p>
+        <p>
+          "
+          boo
+          "
+        </p>
+        <img
+          alt="Aiden Zhane"
+          class="pic"
+          src="https://static.wikia.nocookie.net/logosrupaulsdragrace/images/c/cd/AidenZhane.jpg/revision/latest/scale-to-width-down/1000?cb=20200124021811"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/156"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Brita Filter
+        </p>
+        <p>
+          "
+          My name is Brita and I am THE QUEEN of New York City.
+          "
+        </p>
+        <img
+          alt="Brita Filter"
+          class="pic"
+          src="https://static.wikia.nocookie.net/logosrupaulsdragrace/images/7/7f/Brita.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/157"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Crystal Methyd
+        </p>
+        <p>
+          "
+          I'm Crystal Methyd and I'm a little devil that likes to raise hell in the Bible Belt.
+          "
+        </p>
+        <img
+          alt="Crystal Methyd"
+          class="pic"
+          src="https://static.wikia.nocookie.net/logosrupaulsdragrace/images/f/ff/CrystalMethyd.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/158"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Dahlia Sinn
+        </p>
+        <p>
+          "
+          I'm Dahlia Sin and I'm here to take your man.
+          "
+        </p>
+        <img
+          alt="Dahlia Sinn"
+          class="pic"
+          src="https://static.wikia.nocookie.net/logosrupaulsdragrace/images/1/16/DahliaSin.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/159"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Gigi Goode
+        </p>
+        <p>
+          "
+          My name is Gigi Goode and I'm not just good, I'm incredible.
+          "
+        </p>
+        <img
+          alt="Gigi Goode"
+          class="pic"
+          src="https://static.wikia.nocookie.net/logosrupaulsdragrace/images/d/d2/GigiGoode.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/160"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Heidi N Closet
+        </p>
+        <p>
+          "
+          Heidi to the closet is her name, being soft and supple is her game!
+          "
+        </p>
+        <img
+          alt="Heidi N Closet"
+          class="pic"
+          src="https://static.wikia.nocookie.net/logosrupaulsdragrace/images/8/85/HeidiNCloset.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/161"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Jackie Cox
+        </p>
+        <p>
+          "
+          Roll call...I'm Jackie! Salaam! The Persian princess of drag has arrived!
+          "
+        </p>
+        <img
+          alt="Jackie Cox"
+          class="pic"
+          src="https://static.wikia.nocookie.net/logosrupaulsdragrace/images/5/52/JackieCox.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/162"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Jaida Essence Hall
+        </p>
+        <p>
+          "
+          LOOK OVER THERE!
+          "
+        </p>
+        <img
+          alt="Jaida Essence Hall"
+          class="pic"
+          src="https://static.wikia.nocookie.net/logosrupaulsdragrace/images/b/b5/JaidaEssenceHall.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/163"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Jan
+        </p>
+        <p>
+          "
+          Oh, it's just Jan!
+          "
+        </p>
+        <img
+          alt="Jan"
+          class="pic"
+          src="https://static.wikia.nocookie.net/logosrupaulsdragrace/images/8/82/Jan.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/164"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Nicky Doll
+        </p>
+        <p>
+          "
+          Well, that was a long flight.
+          "
+        </p>
+        <img
+          alt="Nicky Doll"
+          class="pic"
+          src="https://static.wikia.nocookie.net/logosrupaulsdragrace/images/6/66/NickyDoll.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/165"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Rock M. Sakura
+        </p>
+        <p>
+          "
+          All tuck and no play makes Rock M. a crazy bitch!
+          "
+        </p>
+        <img
+          alt="Rock M. Sakura"
+          class="pic"
+          src="https://static.wikia.nocookie.net/logosrupaulsdragrace/images/c/cf/RockMSakura.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/166"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Widow Von'Du
+        </p>
+        <p>
+          "
+          Relax your throat bitches, 'cause you're gagging.
+          "
+        </p>
+        <img
+          alt="Widow Von'Du"
+          class="pic"
+          src="https://static.wikia.nocookie.net/logosrupaulsdragrace/images/2/24/WidowVonDu.jpg"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
+  <a
+    href="/167"
+  >
+    <li
+      class="queensList"
+    >
+      <span
+        class=".list-item"
+      >
+        <p>
+          Sh*rry P**
+        </p>
+        <p>
+          "
+          
+          "
+        </p>
+        <img
+          alt="Sh*rry P**"
+          class="pic"
+          style="width: 300px; height: auto;"
+        />
+      </span>
+    </li>
+  </a>
 </ul>
 `;
