@@ -15,7 +15,6 @@ export const getQueenById = async (id) => {
     const result = await res.json();
 
     return {
-        id: result.id,
         name: result.name,
         winner: result.winner,
         missCongeniality: result.missCongeniality,
