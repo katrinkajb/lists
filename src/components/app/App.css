@@ -1,0 +1,20 @@
+.queen-card {
+    border: 1px, black, solid;
+    display: inline-flex;
+    cursor: pointer;
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 25px;
+    background-color: white;
+}
+
+.pic {
+    width: 100px;
+    height: auto;
+}
+
+  .queensList {
+      display: flex;
+      flex-wrap: wrap;
+  }
