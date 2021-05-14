@@ -9,7 +9,7 @@ const QueenList = ({ queens }) => (
         <ul aria-label='queens'>
             {queens.map((queen) => {
                 return (
-                    <Link to={'/${queen.id}'}>
+                    <Link to={`/${queen.id}`}>
                         <li className='queensList' key={queen.id}>
                             <Queen
                                 name={queen.name}
